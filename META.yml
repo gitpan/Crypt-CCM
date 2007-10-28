@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Crypt-CCM
-version:             0.02
+version:             0.03
 abstract:            CCM Mode for symmetric key block ciphers
 license:             ~
 generated_by:        ExtUtils::MakeMaker version 6.36
